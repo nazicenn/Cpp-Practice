@@ -20,12 +20,14 @@ Mini Algorithms
 ---
 
  Structure
+ 
 Each exercise is written in a separate file
 Organized from 1 to 100 (easy → hard)
 
 ---
 
  Purpose
+ 
 Improve algorithmic thinking
 Practice C++ fundamentals
 Learn step by step
